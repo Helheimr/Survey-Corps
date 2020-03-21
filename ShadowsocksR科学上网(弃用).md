@@ -1,15 +1,6 @@
----
-title: 酸酸乳
-urlname: ssr
-date: 2019-09-14 15:33:50
-tags: ssr
-categories: [Notes]
-description: 喝茶了，逗比也倒了，她不香了.V2ray老大哥替你的位置。
-cover: https://zyue-pic.oss-cn-shenzhen.aliyuncs.com/XFOAdH.png
-top_img:  
----
+# 调查兵团第57次墙外调查—酸酸乳篇
+
 原冲浪手段，随笔记录，现已放弃使用。
-<!--more-->
 
 # __弃SSR,转v2ray.__
 
